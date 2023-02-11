@@ -12,6 +12,9 @@
             "Acquia\\Drupal\\RecommendedSettings\\": "src/"
         }
     },
+    "extra": {
+        "class": "Acquia\\Drupal\\RecommendedSettings\\Plugin"
+    },
     "authors": [
         {
             "name": "Vishal Khode",

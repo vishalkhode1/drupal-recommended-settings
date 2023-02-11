@@ -1,6 +1,6 @@
 <?php
 
-namespace Drupal\Composer\Plugin\Scaffold;
+namespace Acquia\Drupal\RecommendedSettings;
 
 use Composer\Composer;
 use Composer\EventDispatcher\EventSubscriberInterface;
