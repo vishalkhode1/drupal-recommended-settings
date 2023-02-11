@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "6729498c45ea2034fe0b4d3a658958d1",
+    "content-hash": "58f538fbda5885e42abaa9b1ee61492e",
     "packages": [
         {
             "name": "acquia/drupal-environment-detector",
@@ -2317,7 +2317,10 @@
     "stability-flags": [],
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "composer-plugin-api": "^2",
+        "php": ">=7.4"
+    },
     "platform-dev": [],
     "plugin-api-version": "2.3.0"
 }

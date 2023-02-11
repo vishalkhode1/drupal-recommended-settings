@@ -5,7 +5,9 @@
         "drupal/core-composer-scaffold": "^10.0",
         "acquia/drupal-environment-detector": "^1.5.3",
         "loophp/phposinfo": "^1.7.1",
-        "composer/composer": "^2.5"
+        "composer/composer": "^2.5",
+        "composer-plugin-api": "^2",
+        "php": ">=7.4"
     },
     "autoload": {
         "psr-4": {
